@@ -5,4 +5,7 @@ Using JavaScript, NodeJS (including file system and crypto modules), ExpressJS, 
 
 https://sales-ecomm.herokuapp.com/
 
-![Screenshot of App](https://github.com/halbird/images/blob/master/ecomm2.png?raw=true)
+![Screenshot of App](https://github.com/halbird/images/blob/master/ecomm2.png)
+![Screenshot of App](https://github.com/halbird/images/blob/master/ecomm3.png)
+![Screenshot of App](https://github.com/halbird/images/blob/master/ecomm4.png)
+![Screenshot of App](https://github.com/halbird/images/blob/master/ecomm6.png)
